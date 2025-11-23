@@ -1,7 +1,5 @@
 # Assignment 2 — Predictive Modeling Project
 
-This repository contains our end-to-end machine learning pipeline for CSE 158/258 Assignment 2.  
-All analysis, modeling, and experiments are conducted in a single Jupyter notebook (hosted on Google Colab or Kaggle), with tracked metrics and hyperparameters stored remotely via DagsHub’s MLflow integration.
 
 ---
 
